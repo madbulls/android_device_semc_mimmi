@@ -59,9 +59,9 @@ PRODUCT_COPY_FILES += \
 
 # SEMC T9 k/b
 PRODUCT_COPY_FILES += \
-    device/semc/mimmi/prebuilt/usr/keychars/mimmi_keypad.kcm.bin:system/usr/keychars/mimmi_keypad.kcm.bin \
-    device/semc/mimmi/prebuilt/usr/keychars/qwerty.kcm.bin:system/usr/keychars/qwerty.kcm.bin \
-    device/semc/mimmi/prebuilt/usr/keychars/systemconnector.kcm.bin:system/usr/keychars/systemconnector.kcm.bin \
+    device/semc/mimmi/prebuilt/usr/keychars/mimmi_keypad.kcm:system/usr/keychars/mimmi_keypad.kcm \
+    device/semc/mimmi/prebuilt/usr/keychars/qwerty.kcm:system/usr/keychars/qwerty.kcm \
+    device/semc/mimmi/prebuilt/usr/keychars/systemconnector.kcm:system/usr/keychars/systemconnector.kcm \
     device/semc/mimmi/prebuilt/usr/zi/Basque/Zi8DatEUs.z8d:system/usr/zi/Basque/Zi8DatEUs.z8d \
     device/semc/mimmi/prebuilt/usr/zi/Danish/Zi8DatDAs.z8d:system/usr/zi/Danish/Zi8DatDAs.z8d \
     device/semc/mimmi/prebuilt/usr/zi/Estonian/Zi8DatETs.z8d:system/usr/zi/Estonian/Zi8DatETs.z8d \
