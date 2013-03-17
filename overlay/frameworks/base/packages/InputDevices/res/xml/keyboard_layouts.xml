@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard-layouts xmlns:android="http://schemas.android.com/apk/res/android">
+    <keyboard-layout android:name="keyboard_layout_arabic"
+            android:label="@string/keyboard_layout_arabic_label"
+            android:keyboardLayout="@raw/AR" />
+
+    <keyboard-layout android:name="keyboard_layout_azerty"
+            android:label="@string/keyboard_layout_azerty_label"
+            android:keyboardLayout="@raw/AZ" />
+
+    <keyboard-layout android:name="keyboard_layout_cyrillic"
+            android:label="@string/keyboard_layout_cyrillic_label"
+            android:keyboardLayout="@raw/CY" />
+
+    <keyboard-layout android:name="keyboard_layout_greek"
+            android:label="@string/keyboard_layout_greek_label"
+            android:keyboardLayout="@raw/GR" />
+
+    <keyboard-layout android:name="keyboard_layout_hebrew"
+            android:label="@string/keyboard_layout_hebrew_label"
+            android:keyboardLayout="@raw/HE" />
+
+    <keyboard-layout android:name="keyboard_layout_loar"
+            android:label="@string/keyboard_layout_loar_label"
+            android:keyboardLayout="@raw/LOAR" />
+
+    <keyboard-layout android:name="keyboard_layout_loaraz"
+            android:label="@string/keyboard_layout_loaraz_label"
+            android:keyboardLayout="@raw/LOARAZ" />
+
+    <keyboard-layout android:name="keyboard_layout_lobo"
+            android:label="@string/keyboard_layout_lobo_label"
+            android:keyboardLayout="@raw/LOBO" />
+
+    <keyboard-layout android:name="keyboard_layout_locy"
+            android:label="@string/keyboard_layout_locy_label"
+            android:keyboardLayout="@raw/LOCY" />
+
+    <keyboard-layout android:name="keyboard_layout_logr"
+            android:label="@string/keyboard_layout_logr_label"
+            android:keyboardLayout="@raw/LOGR" />
+
+    <keyboard-layout android:name="keyboard_layout_lohe"
+            android:label="@string/keyboard_layout_lohe_label"
+            android:keyboardLayout="@raw/LOHE" />
+
+    <keyboard-layout android:name="keyboard_layout_loko"
+            android:label="@string/keyboard_layout_loko_label"
+            android:keyboardLayout="@raw/LOKO" />
+
+    <keyboard-layout android:name="keyboard_layout_lopi"
+            android:label="@string/keyboard_layout_lopi_label"
+            android:keyboardLayout="@raw/LOPI" />
+
+    <keyboard-layout android:name="keyboard_layout_pt"
+            android:label="@string/keyboard_layout_pt_label"
+            android:keyboardLayout="@raw/QWBR" />
+
+    <keyboard-layout android:name="keyboard_layout_qwerty"
+            android:label="@string/keyboard_layout_qwerty_label"
+            android:keyboardLayout="@raw/QWEN" />
+
+    <keyboard-layout android:name="keyboard_layout_da_no"
+            android:label="@string/keyboard_layout_da_no_label"
+            android:keyboardLayout="@raw/QWEN" />
+
+    <keyboard-layout android:name="keyboard_layout_se_fi"
+            android:label="@string/keyboard_layout_se_fi_label"
+            android:keyboardLayout="@raw/QWSFI" />
+
+    <keyboard-layout android:name="keyboard_layout_qwertz"
+            android:label="@string/keyboard_layout_qwertz_label"
+            android:keyboardLayout="@raw/QWZ" />
+</keyboard-layouts>

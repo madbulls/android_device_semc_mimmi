@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name of the application. [CHAR LIMIT=35] -->
+    <string name="app_label">Input Devices</string>
+
+    <!-- Keyboard layouts label, used to describe the set of all built-in layouts in the UI. [CHAR LIMIT=35] -->
+    <string name="keyboard_layouts_label">X10 Mini Pro keyboard</string>
+
+    <!-- Arabic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_arabic_label"></add-resource>
+    <string name="keyboard_layout_arabic_label">Arabic</string>
+
+    <!-- AZERTY keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_azerty_label"></add-resource>
+    <string name="keyboard_layout_azerty_label">Azerty</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_cyrillic_label"></add-resource>
+    <string name="keyboard_layout_cyrillic_label">Cyrillic</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_greek_label"></add-resource>
+    <string name="keyboard_layout_greek_label">Greek</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_hebrew_label"></add-resource>
+    <string name="keyboard_layout_hebrew_label">Hebrew</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_loar_label"></add-resource>
+    <string name="keyboard_layout_loar_label">Latin-on-Arabic</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_loaraz_label"></add-resource>
+    <string name="keyboard_layout_loaraz_label">Latin-on-Arabic-Azerty</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_lobo_label"></add-resource>
+    <string name="keyboard_layout_lobo_label">Latin-on-Bopomofo</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_locy_label"></add-resource>
+    <string name="keyboard_layout_locy_label">Latin-on-Cyrillic</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_logr_label"></add-resource>
+    <string name="keyboard_layout_logr_label">Latin-on-Greek</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_lohe_label"></add-resource>
+    <string name="keyboard_layout_lohe_label">Latin-on-Hebrew</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_loko_label"></add-resource>
+    <string name="keyboard_layout_loko_label">Latin-on-Korean</string>
+
+    <!-- Cyrillic keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_lopi_label"></add-resource>
+    <string name="keyboard_layout_lopi_label">Latin-on-Pinyin</string>
+
+    <!-- Portuguese/Catalan keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_pt_label"></add-resource>
+    <string name="keyboard_layout_pt_label">Qwerty-br</string>
+
+    <!-- QWERTY keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_qwerty_label"></add-resource>
+    <string name="keyboard_layout_qwerty_label">Qwerty-en</string>
+
+    <!-- Danish/Norwegian keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_da_no_label"></add-resource>
+    <string name="keyboard_layout_da_no_label">Qwerty-no-dk</string>
+
+    <!-- Swedish/Finnish keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_se_fi_label"></add-resource>
+    <string name="keyboard_layout_se_fi_label">Qwerty-se-fi</string>
+
+    <!-- QWERTZ keyboard layout label. [CHAR LIMIT=35] -->
+    <add-resource type="string" name="keyboard_layout_qwertz_label"></add-resource>
+    <string name="keyboard_layout_qwertz_label">Qwertz</string>
+</resources>
