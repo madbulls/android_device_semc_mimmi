@@ -2,73 +2,73 @@
 <keyboard-layouts xmlns:android="http://schemas.android.com/apk/res/android">
     <keyboard-layout android:name="keyboard_layout_arabic"
             android:label="@string/keyboard_layout_arabic_label"
-            android:keyboardLayout="@raw/AR" />
+            android:keyboardLayout="@raw/ar" />
 
     <keyboard-layout android:name="keyboard_layout_azerty"
             android:label="@string/keyboard_layout_azerty_label"
-            android:keyboardLayout="@raw/AZ" />
+            android:keyboardLayout="@raw/az" />
 
     <keyboard-layout android:name="keyboard_layout_cyrillic"
             android:label="@string/keyboard_layout_cyrillic_label"
-            android:keyboardLayout="@raw/CY" />
+            android:keyboardLayout="@raw/cy" />
 
     <keyboard-layout android:name="keyboard_layout_greek"
             android:label="@string/keyboard_layout_greek_label"
-            android:keyboardLayout="@raw/GR" />
+            android:keyboardLayout="@raw/gr" />
 
     <keyboard-layout android:name="keyboard_layout_hebrew"
             android:label="@string/keyboard_layout_hebrew_label"
-            android:keyboardLayout="@raw/HE" />
+            android:keyboardLayout="@raw/he" />
 
     <keyboard-layout android:name="keyboard_layout_loar"
             android:label="@string/keyboard_layout_loar_label"
-            android:keyboardLayout="@raw/LOAR" />
+            android:keyboardLayout="@raw/loar" />
 
     <keyboard-layout android:name="keyboard_layout_loaraz"
             android:label="@string/keyboard_layout_loaraz_label"
-            android:keyboardLayout="@raw/LOARAZ" />
+            android:keyboardLayout="@raw/loaraz" />
 
     <keyboard-layout android:name="keyboard_layout_lobo"
             android:label="@string/keyboard_layout_lobo_label"
-            android:keyboardLayout="@raw/LOBO" />
+            android:keyboardLayout="@raw/lobo" />
 
     <keyboard-layout android:name="keyboard_layout_locy"
             android:label="@string/keyboard_layout_locy_label"
-            android:keyboardLayout="@raw/LOCY" />
+            android:keyboardLayout="@raw/locy" />
 
     <keyboard-layout android:name="keyboard_layout_logr"
             android:label="@string/keyboard_layout_logr_label"
-            android:keyboardLayout="@raw/LOGR" />
+            android:keyboardLayout="@raw/logr" />
 
     <keyboard-layout android:name="keyboard_layout_lohe"
             android:label="@string/keyboard_layout_lohe_label"
-            android:keyboardLayout="@raw/LOHE" />
+            android:keyboardLayout="@raw/lohe" />
 
     <keyboard-layout android:name="keyboard_layout_loko"
             android:label="@string/keyboard_layout_loko_label"
-            android:keyboardLayout="@raw/LOKO" />
+            android:keyboardLayout="@raw/loko" />
 
     <keyboard-layout android:name="keyboard_layout_lopi"
             android:label="@string/keyboard_layout_lopi_label"
-            android:keyboardLayout="@raw/LOPI" />
+            android:keyboardLayout="@raw/lopi" />
 
     <keyboard-layout android:name="keyboard_layout_pt"
             android:label="@string/keyboard_layout_pt_label"
-            android:keyboardLayout="@raw/QWBR" />
+            android:keyboardLayout="@raw/qwbr" />
 
     <keyboard-layout android:name="keyboard_layout_qwerty"
             android:label="@string/keyboard_layout_qwerty_label"
-            android:keyboardLayout="@raw/QWEN" />
+            android:keyboardLayout="@raw/qwen" />
 
     <keyboard-layout android:name="keyboard_layout_da_no"
             android:label="@string/keyboard_layout_da_no_label"
-            android:keyboardLayout="@raw/QWEN" />
+            android:keyboardLayout="@raw/qwndk" />
 
     <keyboard-layout android:name="keyboard_layout_se_fi"
             android:label="@string/keyboard_layout_se_fi_label"
-            android:keyboardLayout="@raw/QWSFI" />
+            android:keyboardLayout="@raw/qwsfi" />
 
     <keyboard-layout android:name="keyboard_layout_qwertz"
             android:label="@string/keyboard_layout_qwertz_label"
-            android:keyboardLayout="@raw/QWZ" />
+            android:keyboardLayout="@raw/qwz" />
 </keyboard-layouts>
