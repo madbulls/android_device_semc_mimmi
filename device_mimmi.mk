@@ -31,8 +31,7 @@ DEVICE_PACKAGE_OVERLAYS += device/semc/mimmi/overlay
 -include device/semc/msm7x27-common/msm7x27.mk
 
 PRODUCT_PACKAGES += \
-    Torch \
-    MimmiParts
+    Torch
 
 # Use low-density artwork where available
 PRODUCT_AAPT_CONFIG := normal ldpi mdpi
@@ -42,22 +41,10 @@ PRODUCT_AAPT_PREF_CONFIG := mdpi
 PRODUCT_COPY_FILES += \
     device/semc/mimmi/prebuilt/tiwlan.ini:system/etc/tiwlan.ini
 
-# Themes
-PRODUCT_COPY_FILES += \
-    device/semc/mimmi/prebuilt/minicm.png:system/usr/res/minicm.png \
-    device/semc/mimmi/prebuilt/bootanimation.zip:system/media/bootanimation.zip
-
-# Touchsceen
-PRODUCT_COPY_FILES += \
-    device/semc/msm7x27-common/prebuilt/cy8ctma300_ser.idc:system/usr/idc/cy8ctma300_ser.idc \
-    device/semc/msm7x27-common/prebuilt/mimmi_keypad.idc:system/usr/idc/mimmi_keypad.idc
-
 # usr
 PRODUCT_COPY_FILES += \
+    device/semc/msm7x27-common/prebuilt/usr/idc/cy8ctma300_ser.idc:system/usr/idc/cy8ctma300_ser.idc \
+    device/semc/mimmi/prebuilt/usr/idc/mimmi_keypad.idc:system/usr/idc/mimmi_keypad.idc \
     device/semc/mimmi/prebuilt/usr/keychars/mimmi_keypad.kcm:system/usr/keychars/mimmi_keypad.kcm \
-    device/semc/mimmi/prebuilt/usr/keychars/qwerty.kcm:system/usr/keychars/qwerty.kcm \
-    device/semc/mimmi/prebuilt/usr/keychars/systemconnector.kcm:system/usr/keychars/systemconnector.kcm \
-    device/semc/mimmi/prebuilt/usr/keylayout/qwerty.kl:system/usr/keylayout/qwerty.kl \
-    device/semc/mimmi/prebuilt/usr/keylayout/7k_handset.kl:system/usr/keylayout/7k_handset.kl \
-    device/semc/mimmi/prebuilt/usr/keylayout/systemconnector.kl:system/usr/keylayout/systemconnector.kl \
-    device/semc/mimmi/prebuilt/usr/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl
+    device/semc/mimmi/prebuilt/usr/keylayout/mimmi_keypad.kl:system/usr/keylayout/mimmi_keypad.kl
+
